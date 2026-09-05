@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-- 🤖 **AI Engineer** with a foundation in deep learning, machine learning, and backend-focused full-stack development
+- 🤖 **AI/ML Engineer** with a foundation in deep learning, machine learning, and backend-focused full-stack development
 - 🎓 Pursuing **MS Artificial Intelligence** at NUST (CEME, Rawalpindi) — BS Computer Science from **FAST NUCES, Islamabad**
 - 🩻 Hands-on experience training and evaluating ML/DL models for **medical imaging** and **NLP**, shipped inside production-ready web apps
 - 🛡️ Explore **generative AI, computer vision, and adversarial ML security** to solve real-world problems
