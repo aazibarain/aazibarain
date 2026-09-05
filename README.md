@@ -4,7 +4,7 @@
 
 ### BS(CS) student @ FAST NUCES Islamabad — building systems, security tools, and things that work under the hood.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/aazibarain/aazib-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aazibabdullah.vercel.app/)
 [![Location](https://img.shields.io/badge/Islamabad-PK-1e2327?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Followers](https://img.shields.io/github/followers/aazibarain?style=for-the-badge&logo=github&color=181717)](https://github.com/aazibarain?tab=followers)
 
@@ -105,6 +105,7 @@ A chat application built with TypeScript.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aazibarain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aazib-abdullah/)
 
 </div>
 
