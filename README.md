@@ -14,11 +14,12 @@
 
 ### 🧠 About Me
 
-- 🎓 Studying Computer Science at **FAST NUCES, Islamabad**
-- 🔐 Interested in **systems programming, security, and distributed/parallel computing**
-- ⚙️ I like building things **from scratch** to understand how they really work — TLS handshakes, chat protocols, parallel graph algorithms
-- 🌱 Currently sharpening my skills in backend systems and applied cryptography
-- 💬 Ask me about C++, Python, TypeScript, or parallel computing
+- 🤖 **AI Engineer** with a foundation in deep learning, machine learning, and backend-focused full-stack development
+- 🎓 Pursuing **MS Artificial Intelligence** at NUST (CEME, Rawalpindi) — BS Computer Science from **FAST NUCES, Islamabad**
+- 🩻 Hands-on experience training and evaluating ML/DL models for **medical imaging** and **NLP**, shipped inside production-ready web apps
+- 🛡️ Explore **generative AI, computer vision, and adversarial ML security** to solve real-world problems
+- 💼 Freelance developer on **Fiverr** (Level 1 Seller) — building custom Python/ML solutions for international clients
+- 🌱 Research mindset, quick learner, always building things from scratch to understand how they really work
 
 ---
 
